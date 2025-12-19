@@ -1,4 +1,4 @@
-# Spring Scaffolding - Group B
+# Spring Scaffolding Application - Group B - Web Engineering
 
 ## Overview
 
